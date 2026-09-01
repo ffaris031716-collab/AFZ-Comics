@@ -1,10 +1,10 @@
 AFZ COMICS WEBSITE — EASY UPDATES
 
 Brand logo:
-assets/afz-logo.png
+afz-logo.png
 
 Your current comic:
-assets/the-legion-of-muslims.jpg
+the-legion-of-muslims.jpg
 
 When the PDF is finished:
 1. Put the PDF inside the "comics" folder.
